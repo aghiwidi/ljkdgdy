@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://agentkey.xyz/sitemap.xml
